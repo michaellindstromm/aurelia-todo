@@ -4,6 +4,7 @@
 
 ```
 npm install -g aurelia-cli
+npm install
 cd aurelia-todo
 au run
 ```
